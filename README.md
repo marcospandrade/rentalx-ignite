@@ -13,3 +13,6 @@ Aplicação desenvolvida em Nodejs utilizando Express
 ```
     yarn dev
 ```
+
+#### Link para documentação
+http://localhost:3333/api-docs
